@@ -1,5 +1,6 @@
 package com.company;
 
 public interface Hunter {
+    public void hunt(Prey prey);
 
 }
